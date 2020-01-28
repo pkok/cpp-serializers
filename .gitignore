@@ -8,3 +8,11 @@ build/
 .RData
 .Rhistory
 *.Rout
+
+# Auto-generated directories
+avro/
+capnproto/
+flatbuffers/
+msgpack/
+protobuf/
+thrift/
